@@ -1,7 +1,7 @@
 # Software Requirements Specification (SRS)
 **Project**: Credit Scoring Model  
 **Author**: S M Asiful Islam Saky  
-**Organization**: CodeAlpha Internship  
+**Organization**: CodeAlpha (Internship)  
 **Date**: 4th November, 2024
 
 ---
